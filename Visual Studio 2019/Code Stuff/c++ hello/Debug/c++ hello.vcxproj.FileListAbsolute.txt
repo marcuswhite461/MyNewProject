@@ -1,0 +1,2 @@
+C:\Users\marcu\OneDrive\Documents\Visual Studio 2019\Code Stuff\c++ hello\Debug\c++ hello.exe
+C:\Users\marcu\OneDrive\Documents\Visual Studio 2019\Code Stuff\c++ hello\Debug\c++ hello.pdb

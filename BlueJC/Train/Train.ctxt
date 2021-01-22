@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Train
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Train\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Train()
+comment1.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ Train\r\n
+comment2.params=number\ color\ name\ isDiesel
+comment2.target=Train(int,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.text=\r\n\ COnstructor\ for\ objects\ of\ class\ train\r\n
+comment3.params=
+comment3.target=void\ printTrain()
+comment3.text=prints\ the\ train\ object\r\n\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=color
+comment5.target=void\ setColor(java.lang.String)
+numComments=6

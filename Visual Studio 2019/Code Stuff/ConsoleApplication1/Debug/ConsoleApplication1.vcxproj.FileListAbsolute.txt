@@ -1,0 +1,2 @@
+C:\Users\marcu\OneDrive\Documents\Visual Studio 2019\Code Stuff\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\marcu\OneDrive\Documents\Visual Studio 2019\Code Stuff\ConsoleApplication1\Debug\ConsoleApplication1.pdb
